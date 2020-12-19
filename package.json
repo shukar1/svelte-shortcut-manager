@@ -49,9 +49,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shukar1/svelte-shortcut-manager.git"
+    "url": "git+https://github.com/shukar1/svelte-shortcut-manager.git"
   },
   "bugs": {
     "url": "https://github.com/shukar1/svelte-shortcut-manager/issues"
-  }
+  },
+  "homepage": "https://github.com/shukar1/svelte-shortcut-manager#readme",
+  "dependencies": {}
 }
