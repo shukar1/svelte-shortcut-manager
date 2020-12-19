@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f2ca03e-b428-491f-9924-e06a2f2f82f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-shortcut-manager/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-shortcut-manager/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-shortcut-manager/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-shortcut-manager/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-shortcut-manager/rollup.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-shortcut-manager/src/App.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/src/actions/key-sequence.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/src/actions/test-action.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/src/components/Hr.svelte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/src/components/Shortcut/Shortcut.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-shortcut-manager/src/components/Shortcut/Shortcut.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-shortcut-manager/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-shortcut-manager/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="5f2ca03e-b428-491f-9924-e06a2f2f82f4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="4476" />
+    <option name="totalTimeSeconds" value="4843" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../demo-shortcut-manager" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -39,13 +27,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -61,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608342545738</updated>
-      <workItem from="1608342546851" duration="7806000" />
+      <workItem from="1608342546851" duration="8164000" />
     </task>
     <servers />
   </component>
