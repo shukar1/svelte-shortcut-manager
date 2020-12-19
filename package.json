@@ -1,5 +1,5 @@
 {
-  "name": "@shuklib/shortcut-manager",
+  "name": "@shuk/shortcut-manager",
   "svelte": "src/index.ts",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
