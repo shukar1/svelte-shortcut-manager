@@ -1,6 +1,6 @@
 # [Svelte](https://svelte.dev) Key Sequence Capture
 
-## [Demo](https://svelte-key-sequence.surge.sh/)
+## [Demo](https://svelte-shortcut-manager.surge.sh/)
 
 `npm i svelte-key-sequence-capturer`
 
